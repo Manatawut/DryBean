@@ -1,10 +1,8 @@
 library(shiny)
-library(shinythemes)
 library(readxl)
-library(caret)
 library(e1071)
 library(ggplot2)
-
+library(caret)
 
     df <-read_excel("Dry_Bean_Dataset.xlsx")
     df$Class <- factor(df$Class)

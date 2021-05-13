@@ -5,8 +5,8 @@ account: manatawut
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 4126479
-bundleId: 4594681
+bundleId: 4594843
 url: https://manatawut.shinyapps.io/DryBean/
-when: 1620921309.34478
+when: 1620923947.60863
 asMultiple: FALSE
 asStatic: FALSE
